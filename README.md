@@ -21,9 +21,9 @@ This type of Random Forest Classification Models are highly used in **Finance In
 ![Components Page](https://github.com/mokshverma-dev/Elemon/blob/main/components_page.png)
 ![Component Page View](https://github.com/mokshverma-dev/Elemon/blob/main/component_page_view.png)
 
-## Screenshots (Drive Link)
+# Dataset for Training Model
 
-[Screenshots Google Drive Link](https://drive.google.com/drive/folders/1qLaIOkZhV4BuAZDlEL9znubAWspf3uYT?usp=share_link)
+[loan_grant_training_data.csv](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_training_data.csv)
 
 ## Tech Stack
 
