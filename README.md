@@ -2,16 +2,16 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-# Loan Approval Prediction Model
+# ML Project : Loan Approval Prediction Model
 
 ### ~ Financial Loan approval Prediction Machine Learning Model by using Python and ML Modules.
 
 
-## What is the Purpose of this Project?
+# What is the Purpose of this Project?
 
 This Random Forest Classification Machine Learning Model helps in Predicting whether the Candidate is capable of Repaying the Loan. Based on some Labels/Attributes this Machine Learning Model Predicts whether to Grant Loan to that Candidate or not!
 
-## Industry Requirement?
+# Industry Requirement?
 
 This type of Random Forest Classification Models are highly used in **Finance Industry**(Corporate Banks and more).
 
@@ -44,4 +44,3 @@ Here are some related projects
 ## Authors
 
 - [@mokshverma_](https://www.instagram.com/mokshverma_/)
-
