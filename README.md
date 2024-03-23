@@ -2,7 +2,7 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-# ML Project : Loan Approval Prediction Model
+# ML Project : "Loan Approval Prediction Model"
 
 ### ~ Financial Loan approval Prediction Machine Learning Model by using Python and ML Modules.
 
