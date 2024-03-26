@@ -15,12 +15,6 @@ This Random Forest Classification Machine Learning Model helps in Predicting whe
 
 This type of Random Forest Classification Models are highly used in **Finance Industry**(Corporate Banks and more).
 
-## Screenshots
-
-![Home Page](https://github.com/mokshverma-dev/Elemon/blob/main/home_page.png)
-![Components Page](https://github.com/mokshverma-dev/Elemon/blob/main/components_page.png)
-![Component Page View](https://github.com/mokshverma-dev/Elemon/blob/main/component_page_view.png)
-
 # ML Model Code
 
 [loan_grant_prediction_model.ipynb](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_prediction_model.ipynb)
