@@ -36,7 +36,7 @@ This type of Random Forest Classification Models are highly used in **Finance In
 
 Here are some related projects
 
-[Resoorces.com](https://github.com/mokshverma-dev/Resoorces)
+[Credit Card Analytical Report using Power BI](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/tree/main)
 
 
 ## Authors
