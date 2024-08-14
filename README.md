@@ -33,7 +33,7 @@ This type of Random Forest Classification Models are highly used in **Finance In
 
 **Language:**   Python
 
-**Machine Learning Libraries:**  SckitLearn 
+**Libraries & Modules:**  Scikit-Learn, Pandas 
 
 
 ## Related
