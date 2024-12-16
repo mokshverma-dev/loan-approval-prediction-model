@@ -45,4 +45,4 @@ Here are some related projects
 
 ## Authors
 
-- [@mokshverma_](https://www.instagram.com/mokshverma_/)
+- [@mokshverma_](https://www.linkedin.com/in/mokshverma/)
